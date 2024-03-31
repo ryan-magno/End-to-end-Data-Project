@@ -6,8 +6,6 @@ A brief description of your project.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -18,7 +16,7 @@ A brief description of your project.
 
 3. Install the packages
 
-`pip install -r requirements`
+`pip install -r requirements.txt`
 
 ## Usage
 
