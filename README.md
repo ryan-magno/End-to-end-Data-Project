@@ -14,11 +14,11 @@ A brief description of your project.
 
 `python -m venv env`
 
-3. Activate virtual environment
-3.1 Powershell:
-`. .\env\Scripts\activate.ps1`
-3.2 Command Prompt:
-`.\venv\Scripts\activate.bat`
+3. Activate virtual environment <br />
+3.1 Powershell: <br />
+`. .\env\Scripts\activate.ps1` <br />
+3.2 Command Prompt: <br />
+`.\venv\Scripts\activate.bat` <br />
 
 4. Install the packages
 
