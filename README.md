@@ -16,6 +16,10 @@ A brief description of your project.
 
 `python -m venv env`
 
+3. Install the packages
+
+`pip install -r requirements`
+
 ## Usage
 
 Guidelines on how to use your project and any relevant examples.
