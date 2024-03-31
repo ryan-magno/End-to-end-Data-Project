@@ -1,4 +1,4 @@
-# Project Title
+# End-to-end Data Project
 
 A brief description of your project.
 
@@ -11,7 +11,10 @@ A brief description of your project.
 
 ## Installation
 
-Instructions on how to install and set up your project.
+1. Clone this repository
+2. Create a virtual environment
+
+`python -m venv env`
 
 ## Usage
 
